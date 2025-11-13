@@ -15,6 +15,11 @@
 **Dosen:** Agung Nugroho, S.Kom., M.Kom.
 
 ---
+### TUGAS 
+
+<img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/512e720c-7557-4af6-98e0-2ade8e657d0a" />
+
+---
 
 ### 🔧 Persiapan
 
