@@ -15,11 +15,6 @@
 **Dosen:** Agung Nugroho, S.Kom., M.Kom.
 
 ---
-### TUGAS 
-
-<img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/512e720c-7557-4af6-98e0-2ade8e657d0a" />
-
----
 
 ### 🔧 Persiapan
 
@@ -34,7 +29,7 @@
 
 ---
 
-### 🧩 Langkah-langkah Praktikum
+### Langkah-langkah Praktikum
 
 #### 1. Membuat File PHP Dasar
 
@@ -58,25 +53,28 @@
 
 **Hasil:**
 Tampilkan di browser melalui URL:
-`http://localhost/lab7_php_dasar/php_dasar.php`
-🖼️ *[Screenshot hasil tampilan Hello World]*
+`php_dasar.php`
+
+<img width="517" height="139" alt="image" src="https://github.com/user-attachments/assets/7ebdfe6c-409c-4962-bcd7-0213046f8ba3" />
 
 ---
 
-#### 2. Variabel PHP
+#### 2. Menambahkan Variabel PHP
 
-**File:** `variable.php`
+**File:** `http://localhost/lab7_php_dasar/php_dasar.php`
 
 ```php
 <?php
-$nim = "41231234";
-$nama = "Fajar";
+$nim = "312410332";
+$nama = "Zaenal Maulana Rizki";
 echo "NIM: $nim <br>";
 echo "Nama: $nama";
 ?>
 ```
-
-🖼️ *[Screenshot hasil tampilan variabel]*
+**Hasil:**
+Tampilkan di browser melalui URL:
+`http://localhost/lab7_php_dasar/php_dasar.php`
+<img width="574" height="227" alt="image" src="https://github.com/user-attachments/assets/c5a1b89c-9884-4bf8-9c0e-7ae9dfd44286" />
 
 ---
 
@@ -91,9 +89,9 @@ echo 'Selamat Datang ' . $_GET['nama'];
 ```
 
 Akses dengan URL:
-`http://localhost/lab7_php_dasar/latihan2.php?nama=Fajar`
+`http://localhost/lab7_php_dasar/latihan2.php?nama=Zaenal`
 
-🖼️ *[Screenshot hasil tampilan]*
+<img width="563" height="108" alt="image" src="https://github.com/user-attachments/assets/7a6eb944-4c84-4db9-8f30-9def7c74c706" />
 
 ---
 
@@ -117,8 +115,8 @@ echo 'Selamat Datang ' . $_POST['nama'];
 </body>
 </html>
 ```
-
-🖼️ *[Screenshot hasil form input]*
+### Hasil tampilan nya
+<img width="449" height="149" alt="image" src="https://github.com/user-attachments/assets/23704d30-46e0-4afb-8457-f803951a3519" />
 
 ---
 
@@ -133,8 +131,8 @@ echo "Gaji Sebelum Pajak = Rp. $gaji <br>";
 echo "Gaji Bersih = Rp. $thp";
 ?>
 ```
-
-🖼️ *[Screenshot hasil]*
+### Hasil tampilan nya 
+<img width="433" height="111" alt="image" src="https://github.com/user-attachments/assets/c77a8af7-1732-466f-92c9-b2a00c8be218" />
 
 ---
 
@@ -150,6 +148,8 @@ elseif ($hari == "Monday") echo "Senin";
 else echo "Hari lainnya";
 ?>
 ```
+### Hasil tampilan nya 
+<img width="461" height="93" alt="image" src="https://github.com/user-attachments/assets/6cce736c-d011-4a01-b247-e5721d07d4af" />
 
 **FOR Loop:**
 
@@ -160,20 +160,17 @@ for ($i=1; $i<=10; $i++) {
 }
 ?>
 ```
-
-🖼️ *[Screenshot hasil kondisi dan perulangan]*
+### Hasil tampilan nya
+<img width="482" height="206" alt="image" src="https://github.com/user-attachments/assets/25880dad-2531-4bce-a2d3-3c7d6e72e43f" />
 
 ---
 
-### 🧮 Tugas Akhir
+### TUGAS 
 
-Buat program **Form Biodata** dengan input:
+<img width="587" height="291" alt="image" src="https://github.com/user-attachments/assets/512e720c-7557-4af6-98e0-2ade8e657d0a" />
 
-* Nama
-* Tanggal Lahir
-* Pekerjaan (pilihan dropdown)
+---
 
-Hitung **umur otomatis** berdasarkan tanggal lahir, dan tampilkan **gaji berdasarkan pekerjaan**.
 
 **File:** `form_biodata.php`
 
@@ -223,19 +220,9 @@ if ($_POST) {
 </body>
 </html>
 ```
-
-🖼️ *[Screenshot hasil form dan output]*
-
+### Hasil tampilannya
 ---
 
-### 📤 Pengumpulan
-
-1. Commit semua file ke repository GitHub bernama **`Lab7Web`**
-2. Tambahkan file `README.md` berisi laporan seperti ini.
-3. Upload semua screenshot hasil ke dalam folder `screenshot/`
-4. Kirim link repo GitHub ke e-learning ecampus.
+<img width="538" height="301" alt="image" src="https://github.com/user-attachments/assets/58b6c6f5-e34f-4fa7-9ff8-7f04306d2d17" />
 
 ---
-
-Kalau kamu mau, aku bisa bantu buatin **struktur folder + file README.md siap upload ke GitHub** (format Markdown lengkap).
-Apakah kamu mau saya buatkan file `.zip` atau isi `README.md`-nya langsung?
