@@ -1,6 +1,6 @@
 ---
 
-## 🧑‍💻 Praktikum 7 – PHP Dasar
+## Praktikum 7 – PHP Dasar
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🔧 Persiapan
+### Persiapan
 
 1. Install **XAMPP** dari [https://www.apachefriends.org](https://www.apachefriends.org)
 2. Jalankan **Apache** dan **MySQL** melalui XAMPP Control Panel.
